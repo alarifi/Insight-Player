@@ -3,21 +3,23 @@
 <img src="./SetupIcon.ico" width="120" height="120" alt="Insight Player Logo" />
 
 # INSIGHT PLAYER v2.0 (PRO)
-## The All-in-One Professional Multimedia Workstation for Windows
-### Powered by Qt 6 (C++17) & LibVLC 3.0 Engine | Built by INSIGHT TOOLS
+## The All-in-One Multimedia Workstation for Windows
+### Powered by Qt 6 & High-Performance LibVLC 3.0 Engine | Built by INSIGHT TOOLS
 
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(64--bit)-0078D6?logo=windows&logoColor=white)](https://microsoft.com)
-[![Version](https://img.shields.io/badge/Release-v2.0.0%20Pro-10B981?style=flat&logo=github)](https://github.com/alarifi/Insight-Player/releases)
-[![Edition](https://img.shields.io/badge/Edition-Standard%20%7C%20PRO%20Unlocked-FFB000)](#free-vs-pro-features-overview)
-[![Qt](https://img.shields.io/badge/Framework-Qt%206.11.1-41CD52?logo=qt&logoColor=white)](https://www.qt.io)
-[![Engine](https://img.shields.io/badge/Engine-LibVLC%203.0%20Core-FF8800?logo=vlc-media-player&logoColor=white)](https://www.videolan.org/vlc/libvlc.html)
-[![Language](https://img.shields.io/badge/Language-C%2B%2B17-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org)
+[![Release](https://img.shields.io/badge/Release-v2.0.0%20Pro-10B981?logo=github)](https://github.com/alarifi/Insight-Player/releases)
+[![Volume Boost](https://img.shields.io/badge/Volume%20Boost-Up%20to%20200%25-E11D48?logo=speaker)](https://github.com/alarifi/Insight-Player)
+[![Trial Offer](https://img.shields.io/badge/Launch%20Offer-30--Day%20Free%20PRO%20Trial-FFB000?style=flat&logo=star)](https://github.com/alarifi/Insight-Player/releases)
 [![Hardware Acceleration](https://img.shields.io/badge/Hardware%20Accel-Direct3D11%20%2F%20DXVA2-9333EA)](https://microsoft.com)
-[![License](https://img.shields.io/badge/License-Proprietary%20%2F%20LGPLv2.1-blue)](LICENSE)
+[![Multi-Language](https://img.shields.io/badge/Languages-العربية%20%7C%20English%20%7C%20More-2563EB)](https://insight-ye.com)
 
 <br/>
 
-**[English Overview](#english-overview)** • **[دليل ومميزات البرنامج بالعربية](#دليل-ومميزات-البرنامج-الشاملة-بالعربية)** • **[Free vs PRO Comparison](#free-vs-pro-features-overview)** • **[All-in-One Core Modules](#all-in-one-core-modules)** • **[Media Converter & Toolkit](#media-converter--toolkit-pro)** • **[Video & Audio Effects](#studio-video-effects--10-band-equalizer)** • **[Disc & Physical Media](#physical-disc-playback-dvd--blu-ray)** • **[Keyboard Shortcuts](#complete-keyboard-shortcuts)** • **[Installation & Download](#download--installation)**
+> 🎁 **Special Launch Offer:** This release includes a **30-Day All-Inclusive PRO Trial**! Enjoy full access to DVD & Blu-ray playback, the built-in Media Converter, Lossless Video Trimmer, Subtitle Extractor/Burner, 10-Band Equalizer, 200% Volume Booster, and Storyboard generator with zero restrictions. Core playback remains free forever.
+
+<br/>
+
+**[English Overview](#overview)** • **[دليل ومميزات البرنامج بالعربية](#دليل-ومميزات-البرنامج-بالعربية)** • **[30-Day PRO Trial](#30-day-pro-trial--free-tier)** • **[All-in-One Features](#all-in-one-workstation-features)** • **[Media Converter & Toolkit](#media-converter--toolkit-pro)** • **[Studio Effects & 200% Boost](#studio-video-effects--200-volume-booster)** • **[Supported Formats](#supported-formats)** • **[Keyboard Shortcuts](#keyboard-shortcuts)** • **[Download & Installation](#download--installation)**
 
 <br/>
 
@@ -27,261 +29,140 @@
 
 ---
 
-## English Overview
+## Overview
 
-**Insight Player v2.0** is not merely a media player—it is an **All-in-One Multimedia Workstation** engineered from the ground up to replace fragmented single-purpose utilities. Combining the raw decoding horsepower of **LibVLC 3.0** with a high-performance **Qt 6 (C++17)** reactive user interface, Insight Player delivers studio-grade local playback, physical disc navigation (DVD & Blu-ray), lossless video trimming, multi-format media transcoding, subtitle burning/extraction, storyboard sheet generation, real-time 10-band acoustic equalization, video color grading, and seamless Windows Explorer integration.
-
-Insight Player is designed with a **Dual-Tier Architecture**: a rock-solid, privacy-first **Standard Free Core** for everyday high-fidelity playback, alongside an enterprise-grade **PRO Suite** unlocked via hardware-bound cryptographic serial keys for demanding power users and content creators.
+**Insight Player v2.0** is an **All-in-One Multimedia Workstation** designed to replace fragmented media players and single-purpose utilities. Combining the uncompromising playback quality of **LibVLC 3.0** with a fluid **Qt 6** dark-themed interface, Insight Player delivers pristine 4K/8K HDR video playback, Hi-Res audio decoding, **200% volume amplification**, physical disc navigation (DVD & Blu-ray), lossless video cutting, multi-format media transcoding, subtitle manipulation, storyboard contact sheet generation, and deep Windows Explorer integration.
 
 ---
 
-## دليل ومميزات البرنامج الشاملة (بالعربية)
+## دليل ومميزات البرنامج (بالعربية)
 
-**إنسايت بلاير (Insight Player v2.0 Pro)** ليس مجرد مشغل وسائط تقليدي، بل هو **محطة وسائط متعددة متكاملة (All-in-One Media Workstation)** تجمع بين قوة تشغيل جميع أنواع الصوتيات والفيديو والأقراص المادية، وبين أدوات المونتاج والتحويل واستخراج الترجمات وهندسة الصوت والصورة في بيئة رسومية مظلمة فائقة السرعة والأناقة.
+**إنسايت بلاير (Insight Player v2.0 Pro)** هو **محطة وسائط متعددة متكاملة (All-in-One Media Workstation)** تجمع بين قوة تشغيل جميع أنواع ملفات الصوت والفيديو والأقراص المادية، وبين أدوات المونتاج والتحويل وتضخيم الصوت وهندسة الصورة في برنامج واحد أنيق وفائق السرعة.
 
-### 🌟 أبرز ما يميز البرنامج:
+> 🎁 **عرض خاص للإطلاق:** تأتي هذه النسخة مع **فترة تجريبية مجانية شاملة لكافة مزايا PRO لمدة شهر كامل (30 يوماً)** للاستمتاع بجميع ميزات البرنامج المتقدمة (مشغل DVD، محول الصيغ، مقص الفيديو، معادل الصوت، لوحة المشاهد، وحرق الترجمات) دون أي قيود!
 
-#### 1. التشغيل الفوري والتكامل الشامل مع Windows:
-* **النقر المزدوج (Double-Click):** تشغيل أي ملف فيديو أو صوت فوراً عند النقر المزدوج عليه في أي مكان في الويندوز.
-* **قائمة "فتح بواسطة" (Open With):** تسجيل رسمي وتلقائي لكافة امتدادات الوسائط في ريجستري الويندوز.
-* **دعم كامل للغة العربية والمسارات المعقدة (100% Arabic & Unicode):** معالجة متقدمة بترميز UTF-8 تقضي تماماً على مشاكل علامات الاستفهام `???` في الملفات والمجلدات العربية.
-* **النسخة الواحدة التفاعلية (Single-Instance IPC):** نقل الملفات الجديدة فوراً إلى النافذة المفتوحة دون تكرار تشغيل البرنامج في الخلفية.
+### 🌟 أبرز قدرات وميزات البرنامج:
 
-#### 2. تشغيل الأقراص المادية والأجهزة (DVD & Blu-ray Pro):
-* **مشغل DVD احترافي:** تشغيل أقراص الـ DVD المادية، ملفات الـ ISO، ومجلدات `VIDEO_TS` مع القوائم التفاعلية واختيار المشاهد واللغات.
-* **مشغل Blu-ray:** دعم تشغيل أقراص ومجلدات البلو راي عالية الدقة (BDMV).
-* **دعم البث الشبكي (Network Streaming):** تشغيل تدفقات البث المباشر عبر بروتوكولات RTSP و HTTP و HLS.
-
-#### 3. أداة المونتاج والتحويل الشاملة (Media Converter & Toolkit - Pro):
-* **محول الصيغ الشامل (Transcoder):** تحويل بين أشهر الحاويات: `MP4`, `MP3`, `MKV`, `AVI`, `WEBM`, `WAV`, `OGG`.
-* **مقص ومحرر الفيديو فائق الدقة (Trimmer / Cutter):** قص الأجزاء من الفيديو والصوت دون فقدان الجودة (Lossless Stream Copy) بالثواني وأجزاء الثانية.
-* **استخراج الترجمات (Subtitle Extractor):** استخراج مسارات الترجمة المدمجة داخل الفيديو وحفظها كملفات نصية `.srt` مستقلة.
-* **حرق ودمج الترجمات (Subtitle Burner):** دمج دائم ومباشر للترجمة على إطارات الفيديو (Hardcode) أو دمجها في حاوية MKV (Softcode).
-
-#### 4. استوديو معالجة الفيديو ومعادل الصوت (Effects & Equalizer):
-* **معادل صوتي رسومي 10 حزم (10-Band Graphic Equalizer):** تغطية الترددات من 60Hz إلى 16kHz، مع تحكم بمضخم الصوت (Preamp) حتى +12dB.
-* **13 وضع صوتي جاهز (Presets):** (Rock, Pop, Classical, Dance, Club, Full Bass, Full Treble, Headphones, Live, Party, Techno, Flat, Manual).
-* **معالجة وتصحيح ألوان الفيديو في الوقت الفعلي:** تحكم احترافي بالسطوع (Brightness)، التباين (Contrast)، التشبع (Saturation)، الغاما (Gamma)، وعجلة تدرج الألوان (Hue 360°).
-* **مصفوفة القنوات الصوتية (Audio Spatializer):** استريو عادي، قناة يسرى فقط، قناة يمنى فقط، واستريو معكوس.
-
-#### 5. المؤثر البصري الصوتي الحي (Native Dynamic Waveform):
-* محرك رسم تفاعلي مباشر مبني بـ `QPainter` يرسم موجات وترددات الصوت الحية عند تشغيل الملفات الصوتية، ويعرض اسم التراك وصيغته بدقة فائقة وبمعدل 60 إطار بالثانية (تم حذف ملفات الـ GIF بالكامل لتسريع البرنامج وخفض الحجم).
-
-#### 6. التقاط الصور وشريط ملء الشاشة العائم (Floating HUD & Storyboard):
-* **شريط التحكم العائم (HUD):** يظهر بسلاسة عند تحريك الفأرة أثناء ملء الشاشة ويوفر وصولاً سريعاً لكافة أدوات التحكم والصوت والتخطي واللقطات.
-* **التقاط لقطات الشاشة (Snapshot with Toast):** تصوير لقطات بدقة الفيديو الكاملة بضغطة زر مع وميض بصري ومعاينة سريعة للصورة المصورة.
-* **مولد لوحة المشاهد (Storyboard / Contact Sheet Generator - Pro):** توليد شبكة صور مصغرة تلخص أحداث الفيلم أو الفيديو بالكامل مع أوقات كل مشهد في ملف صورة واحدة.
-
-#### 7. وضع الصورة داخل صورة (Picture-in-Picture - PiP):
-* نافذة مصغرة عائمة وبدون إطار تظل دائماً فوق جميع البرامج لمشاهدة الفيديو أثناء العمل وتصفح البرامج الأخرى.
-
-#### 8. نظام الترجمات المتطور:
-* تحميل ملفات الترجمة المحلية (`.srt`, `.ass`, `.vtt`).
-* البحث عن الترجمات وتنزيلها عبر الإنترنت (Online Subtitle Search).
-* التحكم في حجم الخط ولونه وموضعه على الشاشة ومزامنة توقيت الترجمة بدقة أجزاء الثانية.
+* **🔊 تضخيم ومضاعفة الصوت حتى 200% (Volume Boost):** إمكانية رفع مستوى الصوت للضعف (حتى 200%) لمعالجة المقاطع الهادئة والتسجيلات منخفضة الصوت بنقاء ووضوح فائق وبدون تشويش.
+* **تشغيل فوري متكامل مع Windows (Double-Click):** تشغيل أي ملف صوتي أو فيديو فوراً بالنقر المزدوج عليه في أي مكان في الويندوز أو عبر قائمة **"فتح بواسطة" (Open With)**.
+* **دعم كامل للغة العربية والمسارات المعقدة (100% Arabic & Unicode):** معالجة كاملة لأسماء الملفات والمجلدات العربية دون أي تلف في الترميز أو ظهور علامات استفهام.
+* **إدارة النسخة الواحدة الذكية (Single-Instance):** عند فتح ملفات جديدة، تُنقل فوراً للنافذة المفتوحة وتعمل بسلاسة في أجزاء من الثانية.
+* **تشغيل أقراص الـ DVD والـ Blu-ray (ميزة PRO):** تشغيل الأقراص المادية، ملفات الـ ISO، ومجلدات `VIDEO_TS` مع القوائم التفاعلية واختيار المشاهد واللغات.
+* **أداة التحويل والمونتاج المتكاملة (Media Converter & Toolkit):**
+  * **محول الصيغ:** تحويل فائق السرعة بين `MP4`, `MP3`, `MKV`, `AVI`, `WEBM`, `WAV`, `OGG`.
+  * **مقص ومحرر الفيديو الدقيق:** قص أجزاء من الفيديو والصوت بالثواني دون فقدان الجودة (Lossless Cut).
+  * **استخراج الترجمات:** استخراج مسارات الترجمة المدمجة كملف `.srt` مستقل.
+  * **حرق ودمج الترجمات:** دمج الترجمة دائماً على الفيديو (Hardcode) أو دمجها داخل الحاوية (Softcode).
+* **معادل صوتي رسومي 10 حزم (10-Band Equalizer):** تحكم في الترددات من 60Hz إلى 16kHz مع 13 وضعاً صوتياً جاهزاً ومضخم Preamp حتى +12dB.
+* **استوديو تصحيح ومعالجة ألوان الفيديو:** تحكم كامل في السطوع (Brightness)، التباين (Contrast)، التشبع (Saturation)، الغاما (Gamma)، وتدرج الألوان (Hue 360°).
+* **مؤثر بصري صوتي تفاعلي (Dynamic Waveform):** شاشة بصرية حية ترسم موجات وترددات الصوت بدقة 60 إطار بالثانية مع اسم التراك وصيغته.
+* **مولد لوحة المشاهد (Storyboard Generator - Pro):** توليد شبكة صور مصغرة تلخص أحداث الفيديو بالكامل مع التوقيت في صورة واحدة.
+* **وضع الصورة داخل صورة (Picture-in-Picture - PiP):** نافذة مصغرة عائمة لمشاهدة الفيديو أثناء العمل على برامج أخرى.
+* **شريط التحكم العائم (Floating HUD):** تحكم كامل وسلس يظهر ويختفي تلقائياً عند ملء الشاشة مع شريط تضخيم الصوت حتى 200%.
+* **التقاط لقطات الشاشة (Snapshot with Toast):** تصوير لقطات بدقة الفيديو الكاملة بضغطة زر مع وميض بصري ومعاينة فورية.
 
 ---
 
-## Free vs. PRO Features Overview
+## 30-Day PRO Trial & Free Tier
 
-Insight Player is built with an integrated license & activation system (`licensedialog.cpp`) offering both a capable free tier and an elite professional package:
+Insight Player offers a transparent, user-friendly tier model:
 
-| Feature / Capability | Free / Standard Tier | PRO Tier (Activated) |
-|:---|:---:|:---:|
-| **All Audio & Video Codecs Playback (4K/8K, H.264, HEVC, VP9, AV1, MP3, FLAC)** | ✅ Included | ✅ Included |
-| **Direct Windows Explorer Double-Click & "Open With" Integration** | ✅ Included | ✅ Included |
-| **100% Arabic & Unicode Filename / Path Fidelity** | ✅ Included | ✅ Included |
-| **Native Dynamic Audio Waveform Visualizer (60 FPS QPainter)** | ✅ Included | ✅ Included |
-| **Single-Instance IPC Instant Queuing** | ✅ Included | ✅ Included |
-| **Floating Fullscreen HUD & OSD Overlays** | ✅ Included | ✅ Included |
-| **Standard Video Snapshot with Toast Preview** | ✅ Included | ✅ Included |
-| **Multi-Language UI (Arabic, English, French, Spanish, German, Russian, Chinese)** | ✅ Included | ✅ Included |
-| **Physical DVD Playback & Interactive Menu Navigation (VIDEO_TS / ISO)** | ❌ Pro Only | ✅ **Full Interactive Access** |
-| **Blu-ray Discs & BDMV Folders Playback** | ❌ Pro Only | ✅ **Full Access** |
-| **Batch Folder Import & Recursive Media Scanning** | ❌ Pro Only | ✅ **Unlimited Import** |
-| **Media Converter & Toolkit (MP4, MP3, MKV, AVI, WEBM, WAV, OGG)** | ❌ Pro Only | ✅ **Full Toolkit Access** |
-| **Lossless Video & Audio Trimmer / Cutter** | ❌ Pro Only | ✅ **High-Precision Cut** |
-| **Subtitle Stream Extractor & Subtitle Burner (Hardcode / Softcode)** | ❌ Pro Only | ✅ **Full Access** |
-| **Studio Effects: 10-Band Equalizer & Video Color Grading** | ❌ Pro Only | ✅ **Real-Time Studio DSP** |
-| **Storyboard & Contact Sheet Video Thumbnails Generator** | ❌ Pro Only | ✅ **Automated Grid Export** |
-| **Picture-in-Picture (PiP) Floating Multi-Tasking Mode** | ❌ Pro Only | ✅ **Always-on-Top Floating** |
-| **Online Subtitle Search & Direct Download Engine** | ❌ Pro Only | ✅ **Integrated Cloud Subs** |
-| **Network Media Streaming (RTSP, HTTP, HLS, UDP)** | ❌ Pro Only | ✅ **Network Protocol Suite** |
+| Capability | 30-Day Launch Trial | Standard Free (After Trial) | PRO Lifetime |
+|:---|:---:|:---:|:---:|
+| **All Video & Audio Codecs Playback (4K/8K, HEVC, AV1, FLAC)** | ✅ **Full Access** | ✅ **Full Access** | ✅ **Full Access** |
+| **🔊 200% Audio Volume Booster & Amplification** | ✅ **Full Access** | ✅ **Full Access** | ✅ **Full Access** |
+| **Windows Double-Click & "Open With" Integration** | ✅ **Full Access** | ✅ **Full Access** | ✅ **Full Access** |
+| **100% Arabic & Unicode Path Fidelity** | ✅ **Full Access** | ✅ **Full Access** | ✅ **Full Access** |
+| **Dynamic Audio Waveform Visualizer (60 FPS)** | ✅ **Full Access** | ✅ **Full Access** | ✅ **Full Access** |
+| **Floating Fullscreen HUD & Snapshot Tool** | ✅ **Full Access** | ✅ **Full Access** | ✅ **Full Access** |
+| **Physical DVD Playback & Interactive Menus (VIDEO_TS / ISO)** | ✅ **Full Access (30 Days)** | 🔒 PRO | ✅ **Full Access** |
+| **Blu-ray Discs & BDMV Folders Playback** | ✅ **Full Access (30 Days)** | 🔒 PRO | ✅ **Full Access** |
+| **Built-in Media Converter & Lossless Video Trimmer** | ✅ **Full Access (30 Days)** | 🔒 PRO | ✅ **Full Access** |
+| **Subtitle Extractor & Permanent Subtitle Burner** | ✅ **Full Access (30 Days)** | 🔒 PRO | ✅ **Full Access** |
+| **10-Band Graphic Equalizer & Video Color Grading** | ✅ **Full Access (30 Days)** | 🔒 PRO | ✅ **Full Access** |
+| **Video Storyboard & Contact Sheet Generator** | ✅ **Full Access (30 Days)** | 🔒 PRO | ✅ **Full Access** |
+| **Picture-in-Picture (PiP) Floating Mode** | ✅ **Full Access (30 Days)** | 🔒 PRO | ✅ **Full Access** |
+| **Online Subtitle Search & Direct Download** | ✅ **Full Access (30 Days)** | 🔒 PRO | ✅ **Full Access** |
 
 ---
 
-## All-in-One Core Modules
+## All-in-One Workstation Features
 
-```
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│                               INSIGHT PLAYER WORKSTATION                               │
-├──────────────────────────┬──────────────────────────┬──────────────────────────────────┤
-│    PLAYBACK & CORE       │    PHYSICAL & NETWORK    │         PRO TOOLKIT & DSP        │
-├──────────────────────────┼──────────────────────────┼──────────────────────────────────┤
-│ • LibVLC 3.0 Engine      │ • DVD Interactive Menus  │ • Multi-format Transcoder        │
-│ • Direct3D11 / DXVA2 HW  │ • VIDEO_TS / ISO Support │ • Lossless Video & Audio Trimmer │
-│ • 4K / 8K HDR Support    │ • Blu-ray BDMV Support   │ • Subtitle Extractor & Burner    │
-│ • Double-Click Launch    │ • RTSP / HTTP Streaming  │ • 10-Band Graphic Equalizer      │
-│ • Arabic / UTF-8 Native  │ • Chapter Navigation     │ • Video Color Grading & Gamma    │
-│ • Single-Instance IPC    │ • Disc Audio / Angle     │ • Storyboard Grid Generator      │
-│ • Audio Waveform 60 FPS  │ • Multi-Track Switching  │ • Picture-in-Picture (PiP) Mode  │
-└──────────────────────────┴──────────────────────────┴──────────────────────────────────┘
-```
+### 🔊 200% Volume Booster & Audio Engine
+* **Double Volume (Up to 200%):** Integrated audio amplifier allowing you to double your volume output to overcome quiet microphones, faint dialogue, or low-gain audio tracks without external boosters.
+* **Dynamic Waveform Visualizer:** Real-time 60 FPS audio frequency spectrum and live track title display.
+* **Audio Spatializer:** Stereo, Left-only, Right-only, and Reverse stereo channel matrix.
 
----
+### 🎬 Physical Disc Engine (DVD & Blu-ray)
+* **Interactive DVD Menus:** Full mouse-click navigation through DVD root menus, chapter selection, and special features.
+* **Folder & ISO Mounting:** Open physical disc drives or local `VIDEO_TS` and `BDMV` folder structures directly.
+* **Audio & Subtitle Track Switching:** Toggle on-the-fly between original language, Arabic dubs, and commentary tracks.
 
-## Media Converter & Toolkit (Pro)
+### 🛠️ Media Converter & Toolkit (Pro)
+Directly accessible from `Tools -> Media Converter` (or press `Ctrl + K`):
+* **Transcode:** Convert video/audio between `MP4`, `MP3`, `MKV`, `AVI`, `WEBM`, `WAV`, `OGG`.
+* **Precision Trim / Cut:** Cut segments losslessly by setting exact Start and End timestamps (`HH:mm:ss`).
+* **Extract Subtitles:** Extract embedded subtitle streams into clean, editable `.srt` text files.
+* **Burn Subtitles:** Hardcode subtitles onto video frames or softcode mux into an MKV container.
 
-Access the built-in media lab directly from `Tools -> Media Converter` (or press `Ctrl + K`):
+### 🎛️ Studio Video Effects & 200% Volume Booster
+Accessible from `Tools -> Effects and Filters` or press `E`:
+* **10-Band Graphic Equalizer:** Sliders for `60Hz`, `170Hz`, `310Hz`, `600Hz`, `1kHz`, `3kHz`, `6kHz`, `12kHz`, `14kHz`, `16kHz` with a `+12.0 dB` Preamp booster.
+* **13 Acoustic Presets:** Rock, Pop, Classical, Dance, Club, Full Bass, Full Treble, Headphones, Live, Party, Techno, Flat, and Manual.
+* **Real-time Color Grading:** Hardware-accelerated adjustments for Brightness, Contrast, Saturation, Gamma, and 360° Hue.
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│             Media Converter & Toolkit (Pro)                 │
-├──────────────┬──────────────┬────────────────┬──────────────┤
-│ 1. CONVERT   │ 2. TRIM/CUT  │ 3. EXTRACT SUB │ 4. BURN SUB  │
-├──────────────┴──────────────┴────────────────┴──────────────┤
-│ Source File: [ E:/Videos/Documentary.mkv               ]    │
-│ Target Format: [ MP4 (H.264 + AAC)                  ▼ ]    │
-│ Start Time: [ 00:01:30 ]       End Time: [ 00:04:45 ]       │
-│ Subtitle Stream: [ Stream 0: Arabic (UTF-8)         ▼ ]    │
-│ Burn Mode: (•) Hardcode (Permanent)  ( ) Softcode (Mux)     │
-│ Progress: [██████████████████████████████████] 100%         │
-│ Status: Operation completed successfully!                   │
-└─────────────────────────────────────────────────────────────┘
-```
-
-* **Transcode Any Container:** Convert high-bitrate raw MKV/AVI files into optimized web-friendly MP4 or mobile-ready MP3.
-* **Lossless Fast Cut:** Extract exact scenes without re-encoding quality degradation in fractions of a second.
-* **Subtitles Rip:** Pull soft subtitles from foreign films into standard `.srt` files for translation and editing.
-* **Permanent Burn:** Hardcode subtitles into video pixels for playback on smart TVs, car screens, or legacy devices.
-
----
-
-## Studio Video Effects & 10-Band Equalizer
-
-Access the studio rack via `Tools -> Effects and Filters` or press `E`:
-
-### 🎛️ Audio Equalizer (10 Bands)
-* **Frequency Sliders:** `60Hz`, `170Hz`, `310Hz`, `600Hz`, `1kHz`, `3kHz`, `6kHz`, `12kHz`, `14kHz`, `16kHz`.
-* **Preamp Booster:** Up to `+12.0 dB` headroom boost.
-* **13 Industry Presets:** Flat, Classical, Club, Dance, Full Bass, Full Treble, Headphones, Live, Party, Pop, Rock, Techno, and Manual.
-
-### 🎨 Video Color Grading (Hardware Direct3D11)
-* **Brightness:** `-100%` to `+100%` scene illumination.
-* **Contrast:** Dynamic range expansion from `0.0x` to `2.0x`.
-* **Saturation:** Black & white monochrome (`0%`) to hyper-vibrant saturation (`300%`).
-* **Gamma Correction:** Mid-tone luminance balance (`0.1` to `10.0`).
-* **Hue Adjustment:** Full `0°` to `360°` chromatic rotation.
-
----
-
-## Physical Disc Playback (DVD & Blu-ray)
-
-Insight Player provides native disc drive mounting and ISO folder parsing:
-* **Interactive DVD Menus:** Mouse click and keyboard navigation inside original DVD title menus.
-* **Chapter Hopping:** Dedicated `Next Chapter` (`Ctrl + Right`) and `Previous Chapter` (`Ctrl + Left`) controls.
-* **Audio Track & Language Switcher:** Instant toggling between Director's Commentary, Arabic dubs, and original audio.
-* **Angle & Title Selection:** Switch between alternative camera angles and DVD bonus titles.
+### 📸 Storyboard & Snapshot Studio
+* **High-Resolution Frame Capture:** Press `S` to instantly save the exact video frame to your Pictures library with a shutter flash and toast preview.
+* **Storyboard Generator (Pro):** Automatically export a visual contact sheet summarizing the entire video timeline with timecoded thumbnails.
 
 ---
 
 ## Supported Formats
 
-| Category | Extensions |
+| Media Category | Extensions & Protocols |
 |:---|:---|
-| **Video Containers** | `.mp4`, `.mkv`, `.avi`, `.mov`, `.wmv`, `.flv`, `.webm`, `.m4v`, `.mpg`, `.mpeg`, `.ts`, `.m2ts`, `.vob`, `.3gp`, `.iso` |
-| **Audio Containers** | `.mp3`, `.wav`, `.aac`, `.flac`, `.ogg`, `.m4a`, `.wma`, `.opus`, `.alac`, `.aiff`, `.ape`, `.ac3` |
+| **Video Files** | `.mp4`, `.mkv`, `.avi`, `.mov`, `.wmv`, `.flv`, `.webm`, `.m4v`, `.mpg`, `.mpeg`, `.ts`, `.m2ts`, `.vob`, `.3gp`, `.iso` |
+| **Audio Files** | `.mp3`, `.wav`, `.aac`, `.flac`, `.ogg`, `.m4a`, `.wma`, `.opus`, `.alac`, `.aiff`, `.ape`, `.ac3` |
 | **Subtitles** | `.srt`, `.ass`, `.ssa`, `.vtt`, `.sub`, `.idx` |
-| **Discs & Folders** | DVD-Video (`VIDEO_TS`), Blu-ray (`BDMV`), ISO disc images |
-| **Network Protocols** | `rtsp://`, `http://`, `https://`, `hls://`, `udp://`, `rtmp://` |
+| **Discs & Media** | DVD-Video (`VIDEO_TS`), Blu-ray (`BDMV`), ISO disc images |
+| **Streaming** | `rtsp://`, `http://`, `https://`, `hls://`, `udp://`, `rtmp://` |
 
 ---
 
-## Complete Keyboard Shortcuts
+## Keyboard Shortcuts
 
-| Shortcut | Function | Context |
+| Shortcut | Action | Description |
 |:---|:---|:---|
-| **Space** | Play / Pause Toggle | Global Player |
-| **Left / Right Arrow** | Seek Backward / Forward 5 seconds | Global Player |
-| **Shift + Left / Right** | Seek Backward / Forward 15 seconds | Global Player |
-| **Ctrl + Left / Right** | Previous / Next Chapter | Disc & Media |
-| **Up / Down Arrow** | Volume Up / Down (5% steps) | Global Player |
-| **M** | Mute / Unmute Audio | Global Player |
-| **F** or **Double-Click** | Toggle Fullscreen Mode | Video Display |
-| **Esc** | Exit Fullscreen Mode | Fullscreen |
-| **S** | Capture High-Resolution Snapshot | Video Display |
-| **Ctrl + O** | Open Media File | File Dialog |
-| **Ctrl + Shift + O** | Open Media Folder / Directory (Pro) | Folder Scanner |
-| **Ctrl + D** | Open DVD Disc / Folder (Pro) | Disc Dialog |
-| **P** | Toggle Playlist Panel Visibility | UI View |
-| **E** | Open Studio Effects & Equalizer (Pro) | Dialog |
-| **Ctrl + K** | Open Media Converter & Toolkit (Pro) | Dialog |
-| **Shift + F10** | Show Media Properties & Codec Inspector | Dialog |
-| **Ctrl + T** | Generate Video Storyboard / Thumbnails (Pro) | Background Worker |
-| **Ctrl + L** | Open License & Serial Key Activation | Activation Dialog |
+| **Space** | Play / Pause | Toggle media playback |
+| **Left / Right Arrow** | Seek 5 seconds | Jump backward or forward |
+| **Shift + Left / Right** | Seek 15 seconds | Larger jump backward or forward |
+| **Ctrl + Left / Right** | Chapters | Previous / Next chapter in DVDs & videos |
+| **Up / Down Arrow** | Volume (Up to 200%) | Adjust volume by 5% increments |
+| **M** | Mute | Toggle audio mute |
+| **F** or **Double-Click** | Fullscreen | Toggle fullscreen mode |
+| **Esc** | Exit Fullscreen | Return to normal window |
+| **S** | Snapshot | Capture high-resolution video frame |
+| **Ctrl + O** | Open File | Open single audio or video file |
+| **Ctrl + Shift + O** | Open Folder (Pro) | Batch import media folder |
+| **Ctrl + D** | Open Disc (Pro) | Open DVD disc or VIDEO_TS folder |
+| **P** | Playlist | Show or hide playlist sidebar |
+| **E** | Effects (Pro) | Open 10-band equalizer & color grading |
+| **Ctrl + K** | Converter (Pro) | Open Media Converter & Toolkit |
+| **Shift + F10** | Media Properties | Inspect technical codecs and bitrate |
+| **Ctrl + T** | Storyboard (Pro) | Generate video thumbnail grid |
+| **Ctrl + L** | License / Activate | Open activation dialog |
 
 ---
 
 ## Download & Installation
 
 ### Official Pre-Built Installer
-Get the official, digitally packed installer:
 👉 **[Download InsightPlayer_Setup_v2.0.exe](https://github.com/alarifi/Insight-Player/releases/download/v2.0/InsightPlayer_Setup_v2.0.exe)**
 
-1. Run `InsightPlayer_Setup_v2.0.exe`.
-2. Check the box **"Associate Media Files with Insight Player"** to configure Windows Explorer double-click integration.
-3. Launch the application from your Desktop or Start Menu.
-
----
-
-## Technical Architecture & Build Stack
-
-```
-Insight Player Software Stack
-┌────────────────────────────────────────────────────────────────────────┐
-│                        USER PRESENTATION LAYER                         │
-│  ┌───────────────────────┐  ┌────────────────────┐  ┌───────────────┐  │
-│  │ Floating Fullscreen   │  │ Native Dynamic     │  │ Picture-in-   │  │
-│  │ HUD & OSD Layer       │  │ Waveform (QPainter)│  │ Picture (PiP) │  │
-│  └───────────────────────┘  └────────────────────┘  └───────────────┘  │
-│  ┌───────────────────────┐  ┌────────────────────┐  ┌───────────────┐  │
-│  │ Studio Equalizer &    │  │ Converter & Lossless│ │ Interactive   │  │
-│  │ Color Grading (DSP)   │  │ Trimmer Suite (Pro)│  │ Playlist Engine│ │
-│  └───────────────────────┘  └────────────────────┘  └───────────────┘  │
-├────────────────────────────────────────────────────────────────────────┤
-│                       APPLICATION CORE INTEGRATION                     │
-│  ┌───────────────────────┐  ┌────────────────────┐  ┌───────────────┐  │
-│  │ VlcPlayer Engine      │  │ Win32 Native Shell │  │ LocalServer   │  │
-│  │ (LibVLC 3.0 Core)     │  │ File Associations  │  │ IPC Pipe (QLocal)│
-│  └───────────────────────┘  └────────────────────┘  └───────────────┘  │
-│  ┌───────────────────────┐  ┌────────────────────┐  ┌───────────────┐  │
-│  │ SHA-256 Cryptographic │  │ Hardware Codec     │  │ Unicode UTF-8 │  │
-│  │ License Validator     │  │ Prober (VLC Tracks)│  │ Win32 Handler │  │
-│  └───────────────────────┘  └────────────────────┘  └───────────────┘  │
-├────────────────────────────────────────────────────────────────────────┤
-│                         HARDWARE & PLATFORM                            │
-│           Windows 10 / 11 (64-bit NT Kernel) • Direct3D11 / DXVA2      │
-└────────────────────────────────────────────────────────────────────────┘
-```
-
-### Compiling from Source
-
-```powershell
-# Prerequisites: MinGW-W64 GCC 13+, CMake 3.20+, Qt 6.6+
-
-# 1. Clone repository
-git clone https://github.com/alarifi/Insight-Player.git
-cd Insight-Player
-
-# 2. Configure build with MinGW
-cmake -B build -G "MinGW Makefiles" -DCMAKE_BUILD_TYPE=Release
-
-# 3. Build high-performance binary
-cmake --build build -j4
-
-# 4. Generate Inno Setup installer package
-& "C:\Program Files\Inno Setup 7\ISCC.exe" "InsightPlayer_Setup.iss"
-```
+1. Download and run `InsightPlayer_Setup_v2.0.exe`.
+2. Check **"Associate Media Files with Insight Player"** to enable double-click playback from Windows Explorer.
+3. Launch Insight Player from your Desktop or Start Menu.
+4. Enjoy your **30-Day All-Access PRO Trial** right out of the box!
 
 ---
 
@@ -290,7 +171,7 @@ cmake --build build -j4
 * **Publisher & Developer:** INSIGHT TOOLS
 * **Official Website:** [https://insight-ye.com](https://insight-ye.com)
 * **Releases & Binary Assets:** [GitHub Releases Page](https://github.com/alarifi/Insight-Player/releases)
-* **In-App Documentation:** Built-in PDF manual accessible via `Help -> User Guide`
+* **In-App Documentation:** Complete PDF manual accessible via `Help -> User Guide`
 
 ---
 
