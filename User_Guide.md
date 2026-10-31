@@ -12,7 +12,7 @@
 * **Windows "Open with" Integration:** Full registry associations for all standard audio and video formats.
 * **100% Arabic & Unicode Path Support:** Full fidelity for file names and folder paths containing Arabic characters or symbols without encoding errors.
 * **Single Instance IPC:** Opening new media seamlessly routes the file to the active player window in milliseconds.
-* **Native Dynamic Audio Waveform Visualizer:** Replaced external GIF files with a lightweight, GPU-smooth dynamic waveform engine that displays the track title, format, and frequency pulse.
+* **Native Dynamic Audio Waveform Visualizer:** High-performance, GPU-smooth dynamic waveform engine that displays the track title, format, and frequency pulse in real-time.
 * **Media Converter & Toolkit (Pro):** Transcode media containers, trim segments with second precision, and extract or burn subtitles.
 * **Real-Time Video Effects & 10-Band Equalizer:** Real-time color correction and graphic sound equalizer.
 * **Floating Fullscreen HUD:** Auto-hiding control overlay during fullscreen playback.
@@ -59,7 +59,7 @@
 When playing an audio file (`.mp3`, `.flac`, `.wav`, `.aac`, `.ogg`, `.m4a`, etc.):
 * **Dynamic Waveform Display:** Insight Player automatically activates the native `AudioVisualizerWidget`.
 * **Track Metadata:** The visualizer displays the complete track name and file format dynamically.
-* **Lightweight & High-Performance:** Renders dynamically at 60 FPS using Qt vector graphics without consuming CPU/GPU cycles for heavy GIF decoding.
+* **Lightweight & High-Performance:** Renders dynamically at 60 FPS using Qt vector graphics with near-zero CPU footprint.
 * **Toggle Visualizer:** You can toggle the visualizer on or off in `Preferences / Settings`.
 
 ---
