@@ -12,7 +12,7 @@
 [![Volume Boost](https://img.shields.io/badge/Volume%20Boost-Up%20to%20200%25-E11D48?logo=speaker)](https://github.com/alarifi/Insight-Player)
 [![Launch Giveaway](https://img.shields.io/badge/Launch%20Giveaway-PRO%20Lifetime%20Free-10B981?style=flat&logo=gift)](https://github.com/alarifi/Insight-Player/releases)
 [![Hardware Acceleration](https://img.shields.io/badge/Hardware%20Accel-Direct3D11%20%2F%20DXVA2-9333EA)](https://microsoft.com)
-[![Multi-Language](https://img.shields.io/badge/Languages-العربية%20%7C%20English%20%7C%20More-2563EB)](https://insight-ye.com)
+[![Multi-Language](https://img.shields.io/badge/Languages-العربية%20%7C%20English%20%7C%20More-2563EB)](https://software.insight-ye.com/)
 
 <br/>
 
@@ -199,7 +199,7 @@ Accessible from `Tools -> Effects and Filters` or press `E`:
 ## Support & Official Links
 
 * **Publisher & Developer:** INSIGHT TOOLS
-* **Official Website:** [https://insight-ye.com](https://insight-ye.com)
+* **Official Website:** [https://software.insight-ye.com/](https://software.insight-ye.com/)
 * **Releases & Binary Assets:** [GitHub Releases Page](https://github.com/alarifi/Insight-Player/releases)
 * **In-App Documentation:** Complete PDF manual accessible via `Help -> User Guide`
 
@@ -208,3 +208,11 @@ Accessible from `Tools -> Effects and Filters` or press `E`:
 <div align="center">
   <sub>Copyright © 2026 INSIGHT TOOLS. All rights reserved.</sub>
 </div>
+
+
+---
+
+### Official Insight Software Website & Support | الموقع الرسمي والدعم
+
+- **Software website | موقع البرامج:** https://software.insight-ye.com/
+- **Technical support | الدعم الفني:** [info@insight-ye.com](mailto:info@insight-ye.com)
