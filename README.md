@@ -16,7 +16,7 @@
 
 <br/>
 
-> 🎁 **Special Launch Giveaway:** Anyone downloading Insight Player during the **first launch month** receives a **Permanent PRO Lifetime License for FREE**! All premium workstation features (DVD & Blu-ray playback, Media Converter, Lossless Video Trimmer, Subtitle Extractor/Burner, 10-Band Equalizer, 200% Volume Boost, and Storyboard generator) are **unlocked for life** with zero expiration or fees.
+> 🎁 **Special Launch Giveaway:** Anyone downloading Insight Player during the **first launch month** receives a **Permanent PRO Lifetime License for FREE**! All premium workstation features (DVD & Blu-ray playback, Media Converter, Lossless Video Trimmer, Subtitle Extractor/Burner, 10-Band Equalizer, 200% Volume Boost, Album Art & Subtitle Embedding, and Storyboard generator) are **unlocked for life** with zero expiration or fees.
 
 <br/>
 
@@ -41,9 +41,9 @@
 
 | Reviewer | Rating | Verified Feedback |
 |:---|:---:|:---|
-| **عمر الكندي** <br/><sub>صانع محتوى وفيديو</sub> | ⭐⭐⭐⭐⭐ | *"ميزة تضخيم ومضاعفة الصوت إلى 200% أنقذتني في مقاطع يوتيوب والتسجيلات الهادئة! ومقص الفيديو السريع (Lossless Trimmer) يقتطع المقاطع بدقة بالثواني بدون إعادة ترميز وفي غمضة عين."* |
+| **عمر الكندي** <br/><sub>صانع محتوى وفيديو</sub> | ⭐⭐⭐⭐⭐ | *"ميزة تضخيم ومضاعفة الصوت إلى 200% أنقذتني في مقاطع يوتيوب والتسجيلات الهادئة! ومحول الصيغ مع إمكانية التقاط صورة من الفيديو كغلاف ألبوم للـ MP3 ودمج الترجمة أمر خرافي وسريع جداً."* |
 | **Dr. Tariq Al-Mansoor** <br/><sub>Academic & Researcher</sub> | ⭐⭐⭐⭐⭐ | *"أخيراً مشغل وسائط يتعامل مع أسماء الملفات والمجلدات العربية الطويلة بنسبة 100% دون أي علامات استفهام أو تشويه. وتشغيل أسطوانات الـ DVD والـ ISO مع القوائم التفاعلية يعمل بكفاءة استثنائية."* |
-| **Elena Rostova** <br/><sub>Multimedia Designer</sub> | ⭐⭐⭐⭐⭐ | *"The built-in media converter and subtitle burner replaced three separate bloated tools on my system. Being able to boost audio up to 200% directly from the floating HUD makes Insight Player the best player on Windows 11."* |
+| **Elena Rostova** <br/><sub>Multimedia Designer</sub> | ⭐⭐⭐⭐⭐ | *"The built-in media converter and subtitle burner replaced three separate bloated tools on my system. Being able to convert audio to MP4 with album cover art and subtitles right from the tool makes it brilliant."* |
 | **أحمد السعيدي** <br/><sub>مهتم بالصوتيات والموسيقى</sub> | ⭐⭐⭐⭐⭐ | *"المعادل الصوتي 10-Band مع مضخم الـ Preamp (+12dB) ومؤشر الموجات الصوتية التفاعلي الحي حوّل تجربة الصوت على اللابتوب إلى مستوى احترافي غير مسبوق. برنامج متكامل وخفيف جداً!"* |
 | **Marcus Vance** <br/><sub>Software Engineer</sub> | ⭐⭐⭐⭐⭐ | *"Instant double-click startup, single-instance routing, clean dark UI, and zero background telemetry. The launch lifetime PRO offer makes this an unbeatable workstation."* |
 
@@ -51,7 +51,7 @@
 
 ## Overview
 
-**Insight Player v2.0** is an **All-in-One Multimedia Workstation** engineered to replace fragmented media players and single-purpose utilities. Combining the uncompromising playback performance of **LibVLC 3.0** with a modern **Qt 6** dark-themed architecture, Insight Player delivers pristine 4K/8K HDR video playback, Hi-Res audio decoding, **200% volume amplification**, physical disc navigation (DVD & Blu-ray), lossless video cutting, multi-format media transcoding, subtitle manipulation, storyboard contact sheet generation, and deep Windows Explorer integration.
+**Insight Player v2.0** is an **All-in-One Multimedia Workstation** engineered to replace fragmented media players and single-purpose utilities. Combining the uncompromising playback performance of **LibVLC 3.0** with a modern **Qt 6** dark-themed architecture, Insight Player delivers pristine 4K/8K HDR video playback, Hi-Res audio decoding, **200% volume amplification**, physical disc navigation (DVD & Blu-ray), lossless video cutting, multi-format media transcoding with cover art and subtitle embedding, storyboard contact sheet generation, and deep Windows Explorer integration.
 
 ---
 
@@ -59,7 +59,7 @@
 
 **إنسايت بلاير (Insight Player v2.0 Pro)** هو **محطة وسائط متعددة متكاملة (All-in-One Media Workstation)** تجمع بين تشغيل جميع صيغ الصوت والفيديو والأقراص المادية، وبين أدوات المونتاج والتحويل وتضخيم الصوت وهندسة الصورة في برنامج واحد فائق السرعة والخفة.
 
-> 🎁 **عرض الإطلاق الحصري:** كل من يحمل البرنامج خلال **شهر الإطلاق الأول** يحصل على **ترخيص PRO دائم ومدى الحياة مجاناً بالكامل (Lifetime PRO License)**! استمتع بجميع الميزات المتقدمة (مشغل DVD والبلوراي، محول الصيغ، مقص الفيديو الفوري، معادل الصوت، حارق ومستخرج الترجمات، ومولد لوحة المشاهد) مفعلة بشكل دائم دون أي اشتراكات أو انقطاع بعد انتهاء فترة الإطلاق!
+> 🎁 **عرض الإطلاق الحصري:** كل من يحمل البرنامج خلال **شهر الإطلاق الأول** يحصل على **ترخيص PRO دائم ومدى الحياة مجاناً بالكامل (Lifetime PRO License)**! استمتع بجميع الميزات المتقدمة (مشغل DVD والبلوراي، محول الصيغ مع دمج صور الغلاف والترجمات، مقص الفيديو الفوري، معادل الصوت، ومولد لوحة المشاهد) مفعلة بشكل دائم دون أي اشتراكات أو انقطاع بعد انتهاء فترة الإطلاق!
 
 ### 🌟 أبرز قدرات وميزات البرنامج:
 
@@ -69,10 +69,13 @@
 * **🚀 إدارة النسخة الواحدة الذكية (Single-Instance):** عند فتح ملفات جديدة، تُنقل فوراً للنافذة المفتوحة وتعمل بسلاسة في أجزاء من الثانية دون فتح نوافذ مكررة.
 * **📀 تشغيل أقراص الـ DVD والـ Blu-ray (ميزة PRO):** تشغيل الأقراص المادية، ملفات الـ ISO، ومجلدات `VIDEO_TS` مع القوائم التفاعلية واختيار المشاهد واللغات.
 * **🛠️ أداة التحويل والمونتاج المتكاملة (Media Converter & Toolkit):**
-  * **محول الصيغ:** تحويل فائق السرعة بين `MP4`, `MP3`, `MKV`, `AVI`, `WEBM`, `WAV`, `OGG`.
+  * **محول الصيغ الشامل:** تحويل فائق السرعة بين `MP4`, `MP3`, `MKV`, `AVI`, `WEBM`, `WAV`, `OGG`.
+  * **🖼️ دمج صور الغلاف والألبوم (Cover Art / Album Art):**
+    * **فيديو إلى MP3:** إمكانية التقاط لقطة شاشة من الفيديو بتوقيت محدد بالثواني ودمجها كغلاف ألبوم للملف الصوتي، أو اختيار أي صورة مخصصة من الجهاز.
+    * **صوت إلى فيديو (MP3 -> MP4/MKV):** تحويل الملف الصوتي إلى فيديو كليب احترافي مع صورة الغلاف ودمج الترجمة أو كلمات الأغنية (Lyrics).
+  * **📝 دمج وحرق الترجمات (Subtitles):** إمكانية إرفاق ملف ترجمة (`.srt`, `.ass`, `.vtt`) لدمجه أو حرقه مباشرة أثناء التحويل.
   * **مقص ومحرر الفيديو الدقيق:** قص أجزاء من الفيديو والصوت بالثواني دون فقدان الجودة (Lossless Cut).
   * **استخراج الترجمات:** استخراج مسارات الترجمة المدمجة كملف `.srt` مستقل.
-  * **حرق ودمج الترجمات:** دمج الترجمة دائماً على الفيديو (Hardcode) أو دمجها داخل الحاوية (Softcode).
 * **🎛️ معادل صوتي رسومي 10 حزم (10-Band Equalizer):** تحكم في الترددات من 60Hz إلى 16kHz مع 13 وضعاً صوتياً جاهزاً ومضخم Preamp حتى +12dB.
 * **🎨 استوديو تصحيح ومعالجة ألوان الفيديو:** تحكم كامل في السطوع (Brightness)، التباين (Contrast)، التشبع (Saturation)، الغاما (Gamma)، وتدرج الألوان (Hue 360°).
 * **📊 محرك المؤثرات البصرية التفاعلي (Dynamic Waveform):** شاشة بصرية حية ترسم موجات وترددات الصوت بدقة 60 إطار بالثانية مع اسم التراك وصيغته.
@@ -98,6 +101,8 @@ Insight Player offers an exclusive opportunity for all early adopters downloadin
 | **Physical DVD Playback & Interactive Menus (VIDEO_TS / ISO)** | ✅ **PRO Lifetime Included** | 🔒 PRO | ✅ Included |
 | **Blu-ray Discs & BDMV Folders Playback** | ✅ **PRO Lifetime Included** | 🔒 PRO | ✅ Included |
 | **Built-in Media Converter & Transcoder** | ✅ **PRO Lifetime Included** | 🔒 PRO | ✅ Included |
+| **🖼️ Cover Art & Album Art Embedding (Video Frame / Image)** | ✅ **PRO Lifetime Included** | 🔒 PRO | ✅ Included |
+| **📝 Subtitle Burning & Muxing during Conversion** | ✅ **PRO Lifetime Included** | 🔒 PRO | ✅ Included |
 | **Lossless Video & Audio Trimmer (No Re-encoding)** | ✅ **PRO Lifetime Included** | 🔒 PRO | ✅ Included |
 | **Subtitle Extractor & Permanent Subtitle Burner** | ✅ **PRO Lifetime Included** | 🔒 PRO | ✅ Included |
 | **10-Band Graphic Equalizer & Video Color Grading** | ✅ **PRO Lifetime Included** | 🔒 PRO | ✅ Included |
@@ -122,6 +127,10 @@ Insight Player offers an exclusive opportunity for all early adopters downloadin
 ### 🛠️ Media Converter & Toolkit (Pro)
 Directly accessible from `Tools -> Media Converter` (or press `Ctrl + K`):
 * **Transcode:** Convert video/audio between `MP4`, `MP3`, `MKV`, `AVI`, `WEBM`, `WAV`, `OGG`.
+* **Cover Art Embedding:**
+  * **Video to MP3:** Extract a frame from the video at any timestamp or pick a custom image to embed as the official ID3 album artwork.
+  * **Audio to Video (MP3 to MP4):** Transform audio into full MP4 video with custom album covers and subtitles.
+* **Subtitles Integration:** Attach `.srt`, `.ass`, or `.vtt` subtitles to burn into video streams during transcoding.
 * **Precision Trim / Cut:** Cut segments losslessly by setting exact Start and End timestamps (`HH:mm:ss`).
 * **Extract Subtitles:** Extract embedded subtitle streams into clean, editable `.srt` text files.
 * **Burn Subtitles:** Hardcode subtitles onto video frames or softcode mux into an MKV container.
